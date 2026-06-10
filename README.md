@@ -4,8 +4,6 @@
 
 **Project Link:** [View Project](https://learn.nextwork.org/projects/8bf3bcb5-a70d-418a-9c76-251365f69028)
 
-**Author:** Mohand Mohamed  
-**Email:** mohandaziz2005@gmail.com
 
 ---
 
