@@ -3,6 +3,7 @@
 ## My Workflow Preferences
 
 - I prefer rebasing feature branches for a clean linear history
+- I use interctive rebase to polish commits before opening a PR
 
 ## Tools I Use
 
