@@ -87,7 +87,7 @@ In this step, I'm setting up Github repository so that I can push my local repos
 
 I ran git push to upload my local repository commits to remoter Github repository. I needed a remote because git does not know the location where the repo lives. Setting up a "remote" acts as a map, linking your offline project folder to an online destination URL
 
-## Bonus: Building a GitHub Profile README
+
 
 ### Commands used to publish the Profile README
 
@@ -119,7 +119,7 @@ I ran git push to upload my local repository commits to remoter Github repositor
 
 ### Project goals and motivation
 
-In this project, I'm learning how to resolve merging coflicts, rebasing feature branches and cleaning up commit history so that I can be a profiessional team player with my skills.
+In this project, I'm learning how to resolve merging coflicts, rebasing feature branches and cleaning up commit history so that I can be a profissional team player with my skills.
 
 ## Setting Up the Conflict Practice Environment
 
