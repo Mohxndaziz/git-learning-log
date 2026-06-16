@@ -22,3 +22,8 @@ I'm learning Git and version control to track my work.
 - [Pro Git Book](https://git-scm.com/book/en/v2) - Free comprehensive Git reference
 - [GitHub Docs](https://docs.github.com) - Official GitHub documentation
 - [Oh My Git!](https://ohmygit.org) - Interactive game to learn Git
+
+## Next Steps
+- Learn about rebasing and interactive rebase
+- Explore GitHub Actions for automation
+- Practice contributing to open source projects
